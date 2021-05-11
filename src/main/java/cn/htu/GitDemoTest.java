@@ -7,6 +7,7 @@ public class GitDemoTest {
         System.out.println("hello GitEE");
         System.out.println("hello hot-fix");
         System.out.println("hello master conflict");
+        System.out.println("hello hot-fix conflict");
 
     }
 }
